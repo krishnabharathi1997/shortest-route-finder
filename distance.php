@@ -186,7 +186,7 @@ function mincost(city,tsp)
 
 </script>
 <script
-   src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBk2OqwVasGapJ8MZQ0uLBkkpdaXRmC7q8&callback=dis">
+   src="google api key">
 
    </script>
 </body>
