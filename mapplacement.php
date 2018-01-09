@@ -159,10 +159,9 @@ article
     }
 </script>
 <script async defer
-   src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZMDMqhMiSrEjneSteh0IceVbRG-O8jiU&callback=mymap">
+   src="google api key">
    </script>
-   <!--google map key = AIzaSyD6wFrTxlwfwIv-Nu66NvPdqllgx4abC3w
-   google geocode key= AIzaSyBZMDMqhMiSrEjneSteh0IceVbRG-O8jiU  -->
+   
 </body>
 </html>
 
